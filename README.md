@@ -37,7 +37,7 @@ k == lists.length
 lists[i] is sorted in ascending order.
 The sum of lists[i].length will not exceed 104.
 
-#23. Объединить k отсортированных списков
+# 23. Объединить k отсортированных списков
 
 Вам дан массив из k связанных списков lists, каждый из которых отсортирован по возрастанию.
 
